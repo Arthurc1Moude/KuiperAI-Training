@@ -1,7 +1,7 @@
 {
   "vocab_size": 26616,
   "algorithm": "BPE",
-  "created_at": "2026-04-29 05:25:50",
+  "created_at": "2026-04-30 05:30:24",
   "special_tokens": [
     "<PAD>",
     "<SOS>",
