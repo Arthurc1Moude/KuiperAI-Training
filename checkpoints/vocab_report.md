@@ -1,12 +1,12 @@
 # Vocabulary Training Report
 
-**Generated:** 2026-05-20 06:06:13
+**Generated:** 2026-05-21 06:08:54
 
 ## Vocabulary Information
 
 - **Size:** 26,613 tokens
 - **Algorithm:** BPE
-- **Created:** 2026-05-20 06:06:13
+- **Created:** 2026-05-21 06:08:54
 - **File:** `vocab_bpe_80k.json`
 
 ## Special Tokens
