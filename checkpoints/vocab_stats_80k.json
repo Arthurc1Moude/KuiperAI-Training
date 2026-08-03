@@ -1,7 +1,7 @@
 {
-  "vocab_size": 26613,
+  "vocab_size": 26614,
   "algorithm": "BPE",
-  "created_at": "2026-08-02 05:25:31",
+  "created_at": "2026-08-03 05:39:52",
   "special_tokens": [
     "<PAD>",
     "<SOS>",
@@ -9,7 +9,7 @@
     "<UNK>",
     "<MASK>"
   ],
-  "vocabulary_size": 26613,
+  "vocabulary_size": 26614,
   "sample_files": 10,
   "total_tokens_sampled": 338897,
   "total_chars_sampled": 1912217,
