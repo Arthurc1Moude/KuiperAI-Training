@@ -1,7 +1,7 @@
 {
-  "vocab_size": 26615,
+  "vocab_size": 26616,
   "algorithm": "BPE",
-  "created_at": "2026-08-13 04:09:13",
+  "created_at": "2026-08-14 04:05:29",
   "special_tokens": [
     "<PAD>",
     "<SOS>",
@@ -9,10 +9,10 @@
     "<UNK>",
     "<MASK>"
   ],
-  "vocabulary_size": 26615,
+  "vocabulary_size": 26616,
   "sample_files": 10,
-  "total_tokens_sampled": 338898,
-  "total_chars_sampled": 1912217,
-  "avg_chars_per_token": 5.64,
-  "compression_ratio": 5.64
+  "total_tokens_sampled": 440448,
+  "total_chars_sampled": 2329820,
+  "avg_chars_per_token": 5.29,
+  "compression_ratio": 5.29
 }
