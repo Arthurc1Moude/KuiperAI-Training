@@ -1,12 +1,12 @@
 # Vocabulary Training Report
 
-**Generated:** 2026-09-10 06:59:35
+**Generated:** 2026-09-11 06:58:39
 
 ## Vocabulary Information
 
-- **Size:** 26,614 tokens
+- **Size:** 26,613 tokens
 - **Algorithm:** BPE
-- **Created:** 2026-09-10 06:59:34
+- **Created:** 2026-09-11 06:58:39
 - **File:** `vocab_bpe_80k.json`
 
 ## Special Tokens
@@ -23,7 +23,7 @@
 
 | Model | Vocabulary Size |
 |-------|----------------|
-| **KuiperAI (This)** | **26,614** |
+| **KuiperAI (This)** | **26,613** |
 | GPT-2 | 50,257 |
 | GPT-3 | 50,257 |
 | BERT | 30,522 |
